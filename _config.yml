@@ -1,0 +1,30 @@
+# Site settings
+title: "IFDS Workshop: Distributional Robustness in Data Science"
+email: pillutla@uw.edu
+url:  "https://krishnap25.github.io/"
+description: "A workshop on distributional robustness in data science at the University of Washington"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#444444'
+  links: '#e8e3d3'
+
+# Footer settings
+footer: # Ariel Rokem, UW eScience Institute
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  #- title: twitter
+  #  url: https://twitter.com/neurohackademy
+  #- title: facebook
+  #  url:
+  #- title: stack-overflow
+  #  url: http://stackoverflow.com/questions/tagged/jekyll
+  #- title: bitbucket
+  #  url: http://bitbucket.org/jekyll
+  #- title: github
+  #  url: https://github.com/neurohackademy
+
+# Build settings
+markdown: kramdown
+permalink: pretty
