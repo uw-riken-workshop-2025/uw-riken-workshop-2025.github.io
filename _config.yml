@@ -1,8 +1,8 @@
 # Site settings
-title: "IFDS Workshop: Distributional Robustness in Data Science"
-email: pillutla@uw.edu
-url:  "https://krishnap25.github.io/"
-description: "A workshop on distributional robustness in data science at the University of Washington"
+title: "UW-RIKEN AIP Joint Workshop"
+email: pangwei@cs.washington.edu
+url:  "https://koh.pw/"
+description: "UW-RIKEN AIP Joint Workshop"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:

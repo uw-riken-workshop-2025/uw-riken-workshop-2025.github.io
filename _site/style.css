@@ -306,7 +306,6 @@ a:focus {
     height: 500px;
     padding: 50px 0;
     color: #fff;
-    background: url(/img/downloads-bg.jpg) no-repeat center center scroll;
     background-color: #444444;
     -webkit-background-size: cover;
     -moz-background-size: cover;
